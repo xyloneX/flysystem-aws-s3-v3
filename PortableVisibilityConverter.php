@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace League\Flysystem\AwsS3V3;
+namespace Xylone\Flysystem\AwsS3V3;
 
-use League\Flysystem\Visibility;
+use Xylone\Flysystem\Visibility;
 
 class PortableVisibilityConverter implements VisibilityConverter
 {
