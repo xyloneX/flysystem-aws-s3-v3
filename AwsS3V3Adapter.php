@@ -71,7 +71,7 @@ class AwsS3V3Adapter implements FilesystemAdapter
     /**
      * @var S3ClientInterface
      */
-    private $client;
+     protected $client;
 
     /**
      * @var PathPrefixer
