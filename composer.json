@@ -1,5 +1,5 @@
 {
-    "name": "league/flysystem-aws-s3-v3",
+    "name": "xylone/flysystem-aws-s3-v3",
     "description": "Flysystem adapter for the AWS S3 SDK v3.x",
     "license": "MIT",
     "authors": [
